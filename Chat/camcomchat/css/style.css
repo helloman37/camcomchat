@@ -1,0 +1,7 @@
+/* CSS Document */
+
+.sitebg {
+	background-image: url(../layout_pics/bg_str.gif); 
+	background-position: left top;
+	background-repeat: repeat-x;
+}
